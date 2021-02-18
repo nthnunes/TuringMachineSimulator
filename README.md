@@ -1,2 +1,5 @@
 # turing-machine-simulator
-A work developed for the subject of Computer Theory.
+
+Linguagens Usadas: Java.
+
+Simulador da Máquina de Turing desenvolvido para matéria de Teoria da Computação.
